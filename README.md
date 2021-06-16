@@ -1,2 +1,5 @@
-# 26thmay_B1_AI
-Artificial Intelligence
+## Used Car Price Prediction
+
+Markup : The model used in this prediction:
+
+          Linear Regression
