@@ -1,2 +1,1 @@
-# 26thmay_B1_AI
-Artificial Intelligence
+### Descriptive Analytic Model of Restaurant Billing & Tips Data
